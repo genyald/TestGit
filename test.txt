@@ -1,2 +1,8 @@
 Agregando una nueva linea a test.txt
 Agregando una nueva linea a test.txt
+
+
+Agregamos un texto extra
+Hola1
+Hola2
+Hola3
