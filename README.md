@@ -9,5 +9,9 @@ Agregue una linea con una carita felih :D
 ```python
 print('Hola geis')
 ```
-
 Vamos a generar un conflicto falso para ver con que nos quedamos
+
+- Continuo con la documentacion:
+  ```python
+  from psycopg2 import pool
+  ```
