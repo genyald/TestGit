@@ -9,3 +9,8 @@ Agregue una linea con una carita felih :D
 ```python
 print('Hola geis')
 ```
+
+- Continuo con la documentacion:
+  ```python
+  from psycopg2 import pool
+  ```
