@@ -15,3 +15,6 @@ Vamos a generar un conflicto falso para ver con que nos quedamos
   ```python
   from psycopg2 import pool
   ```
+Ahora aqui tenemos un saludo:
+
+# Un saludo a toda la banda drogadicta
