@@ -30,3 +30,4 @@ while n != 100:
 else:
   print('Ciclo terminado')
 ```
+## Geny Ochoa - Desarollador de este proyecto generico de Git jejeje
