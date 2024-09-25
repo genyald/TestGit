@@ -15,6 +15,18 @@ Vamos a generar un conflicto falso para ver con que nos quedamos
   ```python
   from psycopg2 import pool
   ```
+
 Ahora aqui tenemos un saludo:
 
 # Un saludo a toda la banda drogadicta
+
+Ahota, agregamos un programa que te imprime del 0 al 100:
+```python
+n = 0
+
+while n != 100:
+    print(n)
+    n+=1
+else:
+  print('Ciclo terminado')
+```
